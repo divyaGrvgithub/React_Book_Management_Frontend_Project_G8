@@ -12,7 +12,7 @@ function AddBook() {
   const [subcategory, setsubcategory] = useState("")
   let [bookCover, setbookCover] = useState()
   const [releasedAt, setreleasedAt] = useState("")
-  const navigate = useNavigate();
+  const navigate = useNavigate();  
 
 
   const createBook = async function (event) {

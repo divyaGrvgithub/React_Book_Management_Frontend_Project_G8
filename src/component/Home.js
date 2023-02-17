@@ -16,7 +16,7 @@ function Home() {
           </div>
         </div>
       </div>
-      <div className="para">
+      <div className="para">  
         <h1>Book World</h1>
         <p>
         If you're a book lover who's always looking for something new to read, this web site is a site you definitely need in your life        </p>

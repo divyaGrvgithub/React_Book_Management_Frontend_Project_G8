@@ -36,7 +36,7 @@ return(
          <li>releasedAt: {releasedAt}</li>
     </div>
     </div>
-   </>
+   </>  
 )
 }
 export default GetBookById

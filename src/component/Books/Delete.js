@@ -13,7 +13,7 @@ function DeleteBook() {
     let url = `http://localhost:8000/books/${id}`
     let token = localStorage.getItem('x-api-key')
 
-    const config = {
+    const config = {   
       headers: {
         'content-type': 'multipart/form-data',
         "Authorization": token

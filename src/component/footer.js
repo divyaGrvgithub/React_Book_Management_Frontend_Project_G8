@@ -13,7 +13,7 @@ function Footer() {
           <div className="card-footer text-light bg-dark " >
             2 days ago
           </div>
-        </div>
+        </div>  
       </>
     )
   }

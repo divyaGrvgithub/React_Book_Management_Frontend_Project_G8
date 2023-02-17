@@ -62,4 +62,4 @@ function Regi() {
     )
 }
 
-export default Regi
+export default Regi  

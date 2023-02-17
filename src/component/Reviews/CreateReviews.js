@@ -17,7 +17,7 @@ function CreateReviews() {
             reviewedBy, rating, review
         }).then((res) => {
             alert(`Your Review Submited Succesfully`)
-            navigate('/GetBooks')
+            navigate('/GetBooks')  
         }).catch((err) => { alert(err.response.data.message + err.response.status + " Error") })
     }
 

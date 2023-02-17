@@ -12,7 +12,7 @@ import AddBook from './component/Books/AddBooks';
 import UpdateBook from './component/Books/Update';
 import GetBooks from './component/Books/GetBooks';
 import DeleteBook from './component/Books/Delete';
-import GetBookById from './component/Books/GetBookById';
+import GetBookById from './component/Books/GetBookById';  
 import CreateReviews from './component/Reviews/CreateReviews';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
