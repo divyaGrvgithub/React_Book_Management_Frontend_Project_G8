@@ -1,8 +1,6 @@
 ##### Californium React Project
 
-$$
 Project Link :- file:///C:/Users/Adarsh%20Tiwari/Downloads/React%20Final%20Project-1%20(2).pdf
-$$
 
 # Getting Started with Create React App
 
